@@ -1,10 +1,10 @@
-MACHINE LEARNING
-Nama : Hanif Ridal Warits
-NPM : 41155050210060
-Kelas : Informatika A2 - 2021
+# MACHINE LEARNING <br>
+Nama : Hanif Ridal Warits <br>
+NPM : 41155050210060 <br>
+Kelas : Informatika A2 - 2021 <br>
 
-Tugas Pertemuan 2
-1.0. Lakukan praktek dari https://youtu.be/lcjq7-2zMSA?si=f4jWJR6lY8y0BZKl  dan buat screen shot hasil run dengan nama anda pada hasil run tersebut. Praktek tersebut yaitu:
+Tugas Pertemuan 2 <br>
+1.0. Lakukan praktek dari https://youtu.be/lcjq7-2zMSA?si=f4jWJR6lY8y0BZKl  dan buat screen shot hasil run dengan nama anda pada hasil run tersebut. Praktek tersebut yaitu: <br>
 1.1. Sample dataset
 ![image](https://github.com/user-attachments/assets/b2be6996-ec49-42ff-935f-2b3546366695)
 
@@ -35,8 +35,8 @@ Tugas Pertemuan 2
 1.10. Kalkulasi nilai R Squared | Coefficient of Determination
 ![image](https://github.com/user-attachments/assets/ab1905b4-3780-4a29-9427-a86be41f7ce9)![image](https://github.com/user-attachments/assets/6b13c62f-331d-4f62-a37b-d65bbfb1c8a7)
 
-2.0. Lakukan praktek dari 
-https://youtu.be/nWJUJenAyB8?si=BQDzWwrMnr8jtzpV  dan buat screen shot hasil run dengan nama anda pada hasil run tersebut. Praktek tersebut yaitu:
+2.0. Lakukan praktek dari <br>
+https://youtu.be/nWJUJenAyB8?si=BQDzWwrMnr8jtzpV  dan buat screen shot hasil run dengan nama anda pada hasil run tersebut. Praktek tersebut yaitu: <br>
 2.1. Persiapan sample dataset
 ![image](https://github.com/user-attachments/assets/80a40143-b4d2-42eb-8cb2-282672f0bf6e)![image](https://github.com/user-attachments/assets/7b1c7dd9-4ded-44a9-8e02-14536408daf6)
 
@@ -55,8 +55,8 @@ https://youtu.be/nWJUJenAyB8?si=BQDzWwrMnr8jtzpV  dan buat screen shot hasil run
 2.6. Linear Regression vs Quadratic Polynomial Regression vs Cubic Polynomial Regression
 ![image](https://github.com/user-attachments/assets/b73e8219-21d5-4376-b5bb-f4c8b76e464e)![image](https://github.com/user-attachments/assets/6c3c5068-79c2-415e-b660-289f8abffe49)
 
-3.0. Lakukan praktek dari
-https://youtu.be/oe7DW4rSH1o?si=H-PZJ9rs9-Kab-Ln  dan buat screen shot hasil run dengan nama anda pada hasil run tersebut. Praktek tersebut yaitu:
+3.0. Lakukan praktek dari <br>
+https://youtu.be/oe7DW4rSH1o?si=H-PZJ9rs9-Kab-Ln  dan buat screen shot hasil run dengan nama anda pada hasil run tersebut. Praktek tersebut yaitu: <br>
 3.1. Formula dasar pembentuk Logistic Regression | Fungsi Sigmoid
 ![image](https://github.com/user-attachments/assets/5bab4882-41cf-49a5-9685-0416bdcccb60)
 
