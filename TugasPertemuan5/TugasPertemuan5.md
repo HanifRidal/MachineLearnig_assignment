@@ -76,3 +76,5 @@ Prediksi yang dilakukan dapat diterapkan baik pada classification maupun regress
 2.7. Evaluasi Model
 ![image](https://github.com/user-attachments/assets/72248aa8-4bee-454a-8fe8-093cd4565223)
 
+
+
