@@ -25,7 +25,3 @@ Kelas : Informatika A2 - 2021 <br>
 1.7. Studi kasus dan implementasi Naive Bayes
 ![image](https://github.com/user-attachments/assets/ae231ded-e154-4da2-b4f0-fc634b4c7932)![image](https://github.com/user-attachments/assets/a6552a59-ff1a-4268-8487-4b4fbda6a0d5)![image](https://github.com/user-attachments/assets/2bfdb645-22a4-4e07-8361-a58103fc29f5)
 
-
-Tidak ada tugas untuk Confusion Matrix.
-
-
