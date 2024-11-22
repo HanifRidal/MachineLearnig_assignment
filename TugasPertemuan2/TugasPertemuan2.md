@@ -3,7 +3,7 @@ Nama : Hanif Ridal Warits <br>
 NPM : 41155050210060 <br>
 Kelas : Informatika A2 - 2021 <br>
 
-Tugas Pertemuan 2 <br>
+## Tugas Pertemuan 2 <br>
 1.0. Lakukan praktek dari https://youtu.be/lcjq7-2zMSA?si=f4jWJR6lY8y0BZKl  dan buat screen shot hasil run dengan nama anda pada hasil run tersebut. Praktek tersebut yaitu: <br>
 1.1. Sample dataset
 ![image](https://github.com/user-attachments/assets/b2be6996-ec49-42ff-935f-2b3546366695)
