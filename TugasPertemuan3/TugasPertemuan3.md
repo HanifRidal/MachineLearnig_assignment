@@ -3,6 +3,7 @@ Nama : Hanif Ridal Warits <br>
 NPM : 41155050210060 <br>
 Kelas : Informatika A2 - 2021 <br>
 <br> 
+
 ## Tugas Pertemuan 3 <br><br> 
 1.0. Lakukan praktik dari <br> 
 https://youtu.be/5wwXKtLkyqs?si=fn88eveu_qbCC6b3, buat screenshot dengan nama kalian pada coding, kumpulkan dalam bentuk pdf, dari kegiatan ini: <br>
