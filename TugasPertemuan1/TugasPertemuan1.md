@@ -3,7 +3,8 @@ Nama : Hanif Ridal Warits <br>
 NPM : 41155050210060 <br>
 Kelas : Informatika A2 - 2021 <br>
 
-
+## Pertemuan 1
+<br>
 1. Install Jupyter Notebook
 
 ![image](https://github.com/user-attachments/assets/f7d081c4-0829-4204-aac2-a6806cbf1bb5)
